@@ -12,3 +12,4 @@ Creazione di un database relazionale su ispirazione della nota piattaforma di St
 ## Autori
 - **Luis Alessandro Siancas Curi** — [@alessandrosiancas](https://github.com/alessandrosiancas)
 - **Francesca Moretti** — [@francycesca](https://github.com/francycesca)
+- **Filippo Virgili**
